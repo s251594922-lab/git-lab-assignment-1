@@ -1,3 +1,5 @@
 Name: Arvin Darman
 Matric Number: 251594922
 Course: Data Science
+Hobbies: Photography, Traveling
+Skills: First Aid , Canva 
